@@ -37,6 +37,8 @@
 
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></br>
 
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></br>
+
 </br>
 
 ✏️ 내가 배우고 싶은 것 ✏️

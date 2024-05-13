@@ -1,11 +1,5 @@
-<div align=center>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=ffffff&height=120&section=header&text=안녕하세요!&fontColor=02569B&fontSize=32&animation=twinkling"/>
-
-🙇‍♂️ 소개 🙇‍♂️
+Introduce
 ---
-
-</br>
 
 안녕하세요! 저는 앱개발을 희밍하고 있는 개발자 지망생 강동우입니다.
 
@@ -13,10 +7,8 @@
 
 </br>
   
-🔥 내가 좋아하는 것 🔥
+Likes
 ---
-
-</br>
 
 일상 혹은 여행에서 찍은 사진들을 소소하게 편집하고 업로드하는 것을 좋아합니다.
 
@@ -24,10 +16,8 @@
 
 </br>
 
-💻 내가 배우고 있는 것 💻
+Learning
 ---
-
-</br>
 
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></br>
 
@@ -41,13 +31,9 @@
 
 </br>
 
-✏️ 내가 배우고 싶은 것 ✏️
+Wants
 ---
-
-</br>
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"></br>
 
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"></br>
-
-</div>

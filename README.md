@@ -36,4 +36,4 @@ Wants
 Resume
 ---
 
-📄 : [About me](https://www.notion.so/About-me-b8f8816a4d3a40059e569edbe5338089?pvs=4)
+📄 : [About me](https://silk-cupboard-7d4.notion.site/About-me-b8f8816a4d3a40059e569edbe5338089?pvs=4)

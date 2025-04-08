@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=36&pause=1000&color=151515&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Dongwoo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=36&letterSpacing=1px&pause=1000&color=111111&vCenter=true&multiline=true&width=512&height=64&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Dongwoo)](https://git.io/typing-svg)
